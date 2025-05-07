@@ -1,1 +1,1 @@
-{ "index.json": "placeholder" }
+{"sections": {"main-hero": {"type": "hero", "settings": {}}, "main-featured-products": {"type": "product-grid", "settings": {}}, "main-collections": {"type": "collection-list", "settings": {}}}, "order": ["main-hero", "main-featured-products", "main-collections"]}
